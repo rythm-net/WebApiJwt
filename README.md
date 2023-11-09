@@ -1,4 +1,4 @@
-## WebAPI (simplified - "Authentication for ASP.NET Web Api using simple JWT")
+## WebAPI (simplified - "ASP.NET Web Api using simple JWT")
 
 ### Overall Information
 * **Course Project | Курсов Проект**
